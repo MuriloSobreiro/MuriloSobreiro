@@ -13,11 +13,7 @@
 <a href="https://www.python.org/">  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/>
 <a href="https://www.kernel.org/">  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"/>
 ---
-
-## ⭐ Informações sobre minha conta GitHub
 <a href="https://github.com/MuriloSobreiro">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloSobreiro&theme=dracula&locale=pt-br&hide_langs_below=1&hide=ShaderLab,HLSL" />
 </a>
-<a href="https://github.com/MuriloSobreiro">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=murilosobreiro&show_icons=true&theme=dracula&locale=pt-br&line_height=25" />
-</a>
+
