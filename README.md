@@ -1,7 +1,7 @@
 ## 🥶 Olá, meu nome é <strong>Murilo!</strong>
 <h3>&nbsp;Sobre mim </h3>
 
-- 🤭 &nbsp; Aprendendo sobre computadores e explorando possibilidades.
+- 🤭 &nbsp; Aprendendo sobre sistemas embarcados e explorando possibilidades.
 - 🎓 &nbsp; Estudando **Engenharia de Controle e Automação** no campus <a href="http://www.utfpr.edu.br/campus/cornelioprocopio" target="_blank">UTFPR-CP</a>.
 - 🧠 &nbsp; Aprendendo mais sobre **programação de baixo nível**.
 ## 👨‍🏫 Minhas Skills
